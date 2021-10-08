@@ -3,7 +3,7 @@ import numpy as np
 
 def distances(matrix, positions):
     """
-    This functions computes Euclidean Distance and put them in a vector
+
     :param matrix: NxN FC matrix
     :param positions: 3D electrodes positions
     :return: vector of distances
